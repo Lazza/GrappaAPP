@@ -36,4 +36,4 @@ Il **pacchetto APK** di debug [si trova qui][4].
   [1]: http://grappalug.org/linux-day/linux-day-2016/
   [2]: LICENSE
   [3]: http://grappalug.org
-  [4]: GrappaAPP/app/build/outputs/apk/app-debug,apk
+  [4]: GrappaAPP/app/build/outputs/apk/app-debug.apk
