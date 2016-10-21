@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GrappaAPP</string>
+    <string name="network_error">Network error!</string>
+</resources>
